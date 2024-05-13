@@ -10,7 +10,7 @@ This applicaiton helps the belgian tennis player to have a visual image of his s
 - All matches history
 
 
-# Techs: NextJS + TailwindCSS
+# Techs: NextJS + TailwindCSS + VPS for JS scrapping
 # Target: Reach top 3 Google search results
   - 25/03: Release day
   - 28/03: Top 10
