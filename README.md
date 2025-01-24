@@ -14,6 +14,7 @@ This applicaiton helps the belgian tennis player to have a visual image of his s
 - NextJS
 - TailwindCSS
 - VPS for JS scrapping
+- Auto indexing tool to force the huge sitemap
   
 # Target: Reach top 3 Google search results
   - 25/03: Release day
